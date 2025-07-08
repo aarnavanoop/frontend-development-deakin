@@ -10,3 +10,9 @@ nav ul li a{
     text-decoration: none;
     color: black;
 }
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
