@@ -84,7 +84,16 @@ nav ul li a{
 
 }
 
-.project-photo {
-    width: 40%;
+.project-image {
+    width: 60%;
     border-radius: 8px;
 }
+
+.project-content {
+    width: 40%
+}
+
+.project-name {
+    margin-top: 0;
+}
+
