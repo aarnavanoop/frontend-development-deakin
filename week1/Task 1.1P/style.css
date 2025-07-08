@@ -70,3 +70,21 @@ nav ul li a{
     margin-bottom: 100px;
 
 }
+
+.projects-layout {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    max-width: 800px;
+    margin: 0 auto 40px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+
+}
+
+.project-photo {
+    width: 40%;
+    border-radius: 8px;
+}
