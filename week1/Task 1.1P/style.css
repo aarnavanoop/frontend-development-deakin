@@ -48,3 +48,15 @@ nav ul li a{
     border-radius: 50%;
     object-fit: cover;
 }
+.description {
+    margin-top: 25px;
+    font-size: 1.3rem;
+    color: rgba(0, 145, 255, 0.872)
+    
+}
+
+.break-one {
+    border: none;
+    width: 250px;
+    border-top: 2px solid rgb(99, 161, 99);
+}
