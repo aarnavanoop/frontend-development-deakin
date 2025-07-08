@@ -5,3 +5,28 @@
 .header {
     background-color: darkcyan;
 }
+
+.header img {
+    height: 100px
+}
+
+table {
+    width: 100%
+}
+
+table, th, td {
+    border-collapse: collapse;
+}
+
+th, td {
+    border-bottom: 1px solid #dddddd;
+    padding: 12px
+}
+
+tr:nth-child(odd) {
+    background-color: #24ccc4d6;
+}
+
+tbody tr:hover {
+    background-color: #e0e0e0;
+  }
