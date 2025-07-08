@@ -51,7 +51,8 @@ nav ul li a{
 .description {
     margin-top: 25px;
     font-size: 1.3rem;
-    color: rgba(0, 145, 255, 0.872)
+    color: rgba(0, 145, 255, 0.872);
+
     
 }
 
@@ -59,4 +60,13 @@ nav ul li a{
     border: none;
     width: 250px;
     border-top: 2px solid rgb(99, 161, 99);
+
+
+}
+
+.projects-header{
+    text-align: center;
+    color: rgba(0, 145, 255, 0.872);
+    margin-bottom: 100px;
+
 }
